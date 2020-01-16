@@ -1,2 +1,10 @@
-# Lab-2
-The code for Lab 2 solo
+// A lab being done solo
+#include <iosteam>
+using namespace std;
+  
+int main()
+{
+    cont << "cheese\n";
+    cont << "muffins\n;
+    return 0;
+}
